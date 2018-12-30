@@ -1,3 +1,3 @@
 # Microgrid
 Microgrid TH
-All thing about Microgrid is here!
+All things about Microgrid is here!
